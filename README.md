@@ -1,4 +1,4 @@
 # codesoftKruti
 for internship
-This repository contains the projects tasks of python internship in CODSOFT.
-Here i add all task i submitt and also i use command line interface and complite with GUI for my better experience.
+This repository contains the project tasks of the Python internship in CODSOFT.
+Here I add all tasks I submit and also I use the command line interface and complete with GUI for a better experience.
